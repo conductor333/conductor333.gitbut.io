@@ -1,0 +1,238 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sait.com" resolutions="1x" timestamp="1531598066155">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="biographyeng.css" crc="4068081635" ref="biographyeng"/>
+    <file name="contacts.css" crc="4214040050" ref="contacts"/>
+    <file name="biography.css" crc="4258103393" ref="biography"/>
+    <file name="photos.css" crc="156914521" ref="photos"/>
+    <file name="index.css" crc="88008908" ref="index"/>
+    <file name="repertoire.css" crc="254650493" ref="repertoire"/>
+    <file name="video.css" crc="506931348" ref="video"/>
+    <file name="eng.css" crc="3972319005" ref="eng"/>
+    <file name="photoseng.css" crc="3929971971" ref="photoseng"/>
+    <file name="repertoireeng.css" crc="221390996" ref="repertoireeng"/>
+    <file name="videoeng.css" crc="4041661518" ref="videoeng"/>
+    <file name="contactseng.css" crc="4134868033" ref="contactseng"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>eng:tablet>video-копия:tablet>contactseng:tablet>photoseng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>photos:phone>video:phone>biography:phone>repertoire:phone>contacts:phone>eng:phone>contactseng:phone>photoseng:phone>videoeng:phone>repertoireeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>contacts:tablet>biography:tablet>eng:tablet>biographyeng:tablet>video-копия:tablet>contactseng:tablet>photoseng:tablet>repertoireeng:biography:photos:video:repertoire:contacts:index:contactseng:repertoireeng:eng:biographyeng:photoseng:videoeng"/>
+  </folder>
+  <folder name="images">
+    <file name="wave-white-ppt-background-8.jpg" crc="3848140010" ref="phone>index:phone>photos:phone>video:phone>biography:phone>eng:phone>photoseng:phone>videoeng:phone>biographyeng:tablet>index:tablet>photos:tablet>video:tablet>eng:tablet>video-копия:tablet>photoseng:biography:photos:video:index:eng:biographyeng:photoseng:videoeng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="35164767_101574087424811_6092402291808141312_o-u1580-fr.jpg" crc="3964300933" ref="phone>index:phone>eng"/>
+    <file name="35164767_101574087424811_6092402291808141312_o-u1580-r-fr.png" crc="3851006834" ref="phone>index:phone>eng"/>
+    <file name="rlpmhcpvtz4-u1581-fr.jpg" crc="3881200664" ref="phone>index:phone>eng"/>
+    <file name="11111-u1582-fr.jpg" crc="4152854469" ref="phone>index:phone>eng:tablet>index:tablet>eng"/>
+    <file name="2018-05-31_135-u1583-fr.jpg" crc="155188574" ref="phone>index:phone>eng"/>
+    <file name="fe0c8f1add9fc597a79b223bc0b3f626_2760x1680-u1583-r-fr.png" crc="174553815" ref="phone>index:phone>eng"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>biography:phone>eng:phone>biographyeng:tablet>index:tablet>eng:biography:index:eng:biographyeng"/>
+    <file name="u1589_states.png" crc="462759242" ref="phone>index"/>
+    <file name="u1589_states-r.png" crc="442758796" ref="phone>index"/>
+    <file name="oboikru_475-u1589_states-m.png" crc="148102112" ref="phone>index"/>
+    <file name="rlpmhcpvtz4-u1581-fr2.jpg" crc="353833926" ref="phone>index"/>
+    <file name="11111-u1582-fr2.jpg" crc="4273343732" ref="phone>index"/>
+    <file name="u1589_states2.png" crc="436910878" ref="phone>index"/>
+    <file name="u1589_states-r2.png" crc="3979823033" ref="phone>index"/>
+    <file name="oboikru_475-u1589_states-m2.png" crc="307293296" ref="phone>index"/>
+    <file name="kble3yp5hfm-u1659-fr.jpg" crc="2107902" ref="phone>photos:phone>photoseng"/>
+    <file name="2018-05-31_133-u1657-fr.jpg" crc="3809071850" ref="phone>photos:phone>photoseng"/>
+    <file name="qzjzgfoyu1y-u1658-fr.jpg" crc="70981763" ref="phone>photos:phone>photoseng"/>
+    <file name="polognyuknikita333-u1654-fr.jpg" crc="3798179920" ref="phone>photos:phone>photoseng"/>
+    <file name="img_0147-u1655-fr.jpg" crc="3864042409" ref="phone>photos:phone>photoseng"/>
+    <file name="36xattpxxko-u1661-fr.jpg" crc="3819353831" ref="phone>photos:phone>photoseng"/>
+    <file name="_dzdj21xjqg-u1656-fr.jpg" crc="3785875382" ref="phone>photos:phone>photoseng"/>
+    <file name="mwzx_nd12qc-u1660-fr.jpg" crc="4087936796" ref="phone>photos:phone>photoseng"/>
+    <file name="u2403_states.png" crc="510801852" ref="phone>biography"/>
+    <file name="u2403_states-r.png" crc="3843294511" ref="phone>biography"/>
+    <file name="u2403_states-m.png" crc="3869334388" ref="phone>biography"/>
+    <file name="light-blue-background-u1734-fr.jpg" crc="4090104625" ref="phone>repertoire"/>
+    <file name="light-blue-background-u1713-fr.jpg" crc="3855816939" ref="phone>contacts"/>
+    <file name="36944416_480985472351982_3325972775092355072_n.jpg" crc="382758117" ref="phone>contacts:phone>contactseng:tablet>contacts:tablet>contactseng:contacts:contactseng">
+      <caption webpage="contactseng" alt=""/>
+      <caption webpage="contactseng" alt=""/>
+      <caption webpage="contactseng" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u1757_states.png" crc="289468284" ref="phone>eng"/>
+    <file name="u1757_states-r.png" crc="309152643" ref="phone>eng"/>
+    <file name="regnum_picture_1460073744296138_big-u1757_states-m.png" crc="3872603031" ref="phone>eng"/>
+    <file name="light-blue-background-u1790-fr.jpg" crc="3934664505" ref="phone>contactseng:contactseng"/>
+    <file name="light-blue-background-u2366-fr.jpg" crc="4212203414" ref="phone>repertoireeng"/>
+    <file name="u2591_states.png" crc="4268685575" ref="phone>biographyeng"/>
+    <file name="u2591_states-r.png" crc="3814996146" ref="phone>biographyeng"/>
+    <file name="u2591_states-m.png" crc="4094932674" ref="phone>biographyeng"/>
+    <file name="35164767_101574087424811_6092402291808141312_o-u1830-fr.jpg" crc="479196987" ref="tablet>index:tablet>eng"/>
+    <file name="35164767_101574087424811_6092402291808141312_o-u1830-r-fr.png" crc="4292235200" ref="tablet>index:tablet>eng"/>
+    <file name="2018-05-31_135-u1833-fr.jpg" crc="467342174" ref="tablet>index:tablet>eng"/>
+    <file name="fe0c8f1add9fc597a79b223bc0b3f626_2760x1680-u1833-r-fr.png" crc="206582707" ref="tablet>index:tablet>eng"/>
+    <file name="rlpmhcpvtz4-u1831-fr.jpg" crc="68093631" ref="tablet>index:tablet>eng"/>
+    <file name="u1839_states.png" crc="462759242" ref="tablet>index"/>
+    <file name="u1839_states-r.png" crc="442758796" ref="tablet>index"/>
+    <file name="oboikru_475-u1839_states-m.png" crc="148102112" ref="tablet>index"/>
+    <file name="kble3yp5hfm.jpg" crc="362217103" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="qzjzgfoyu1y.jpg" crc="4053558365" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="img_0147.jpg" crc="257063448" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="36xattpxxko.jpg" crc="3940156062" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="2018-05-31_133.jpg" crc="4226453733" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="polognyuknikita333.jpg" crc="397756565" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="_dzdj21xjqg.jpg" crc="441010029" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="mwzx_nd12qc.jpg" crc="95831929" ref="tablet>photos:tablet>photoseng:photos:photoseng">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+      <caption webpage="photoseng" alt=""/>
+    </file>
+    <file name="light-blue-background.jpg" crc="58973108" ref="tablet>contacts:tablet>contactseng:repertoire:repertoireeng">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u2400_states.png" crc="407307045" ref="tablet>eng"/>
+    <file name="u2400_states-r.png" crc="4051155109" ref="tablet>eng"/>
+    <file name="regnum_picture_1460073744296138_big-u2400_states-m.png" crc="3862586425" ref="tablet>eng"/>
+    <file name="u457_states.png" crc="3765247783" ref="biography"/>
+    <file name="u457_states-r.png" crc="4104536172" ref="biography"/>
+    <file name="u457_states-m.png" crc="204399146" ref="biography"/>
+    <file name="light-blue-background-u497-fr.jpg" crc="503803209" ref="contacts"/>
+    <file name="35164767_101574087424811_6092402291808141312_o.jpg" crc="3912335978" ref="index:eng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="eng" alt=""/>
+    </file>
+    <file name="35164767_101574087424811_6092402291808141312_o-u547-r-fr.png" crc="113169241" ref="index:eng"/>
+    <file name="rlpmhcpvtz4.jpg" crc="491493517" ref="index:eng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="eng" alt=""/>
+    </file>
+    <file name="2018-05-31_135.jpg" crc="157826723" ref="index:eng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="eng" alt=""/>
+    </file>
+    <file name="fe0c8f1add9fc597a79b223bc0b3f626_2760x1680-u553-r-fr.png" crc="4064977731" ref="index:eng"/>
+    <file name="11111.jpg" crc="4187627584" ref="index:eng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="eng" alt=""/>
+    </file>
+    <file name="u1177_states.png" crc="264890165" ref="index"/>
+    <file name="u1177_states-r.png" crc="163517860" ref="index"/>
+    <file name="oboikru_475-u1177_states-m.png" crc="357274336" ref="index"/>
+    <file name="u2378_states.png" crc="4175799982" ref="eng"/>
+    <file name="u2378_states-r.png" crc="4147841650" ref="eng"/>
+    <file name="regnum_picture_1460073744296138_big-u2378_states-m.png" crc="3965986129" ref="eng"/>
+    <file name="u1901_states.png" crc="446011697" ref="biographyeng"/>
+    <file name="u1901_states-r.png" crc="4235795755" ref="biographyeng"/>
+    <file name="u1901_states-m.png" crc="103004345" ref="biographyeng"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="biographyeng.css" crc="4021538510" ref="tablet>biographyeng"/>
+      <file name="eng.css" crc="4005116888" ref="tablet>eng"/>
+      <file name="photoseng.css" crc="3963707380" ref="tablet>photoseng"/>
+      <file name="contactseng.css" crc="109000993" ref="tablet>contactseng"/>
+      <file name="contacts.css" crc="4252998276" ref="tablet>contacts"/>
+      <file name="video-_____.css" crc="237355731" ref="tablet>video-копия"/>
+      <file name="biography.css" crc="4021538510" ref="tablet>biography"/>
+      <file name="video.css" crc="4247995790" ref="tablet>video"/>
+      <file name="photos.css" crc="4258428077" ref="tablet>photos"/>
+      <file name="index.css" crc="4267428052" ref="tablet>index"/>
+      <file name="repertoireeng.css" crc="4021538510" ref="tablet>repertoireeng"/>
+    </folder>
+    <file name="index.html" crc="4193748347" seo="true" mt="1531590921267" redirect="true"/>
+    <file name="photos.html" crc="4117835271" seo="true" mt="1531589695775" redirect="true"/>
+    <file name="video.html" crc="514260725" seo="true" mt="1531583357695" redirect="true"/>
+    <file name="contacts.html" crc="148964657" seo="true" mt="1531589717887" redirect="true"/>
+    <file name="biography.html" crc="4175024000" seo="true" mt="1531589727184" redirect="false"/>
+    <file name="eng.html" crc="4286395777" seo="true" mt="1531597460189" redirect="true"/>
+    <file name="biographyeng.html" crc="179138048" seo="true" mt="1531597494788" redirect="false"/>
+    <file name="video-копия.html" crc="3968846257" seo="true" mt="1531589901146" redirect="true"/>
+    <file name="contactseng.html" crc="3829429450" seo="true" mt="1531589892148" redirect="true"/>
+    <file name="photoseng.html" crc="3868567879" seo="true" mt="1531589922673" redirect="true"/>
+    <file name="repertoireeng.html" crc="348982044" seo="true" mt="1531590089564" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="photos.css" crc="382903578" ref="phone>photos"/>
+      <file name="biography.css" crc="219718456" ref="phone>biography"/>
+      <file name="videoeng.css" crc="94980214" ref="phone>videoeng"/>
+      <file name="photoseng.css" crc="4247000708" ref="phone>photoseng"/>
+      <file name="repertoire.css" crc="175297272" ref="phone>repertoire"/>
+      <file name="repertoireeng.css" crc="159192783" ref="phone>repertoireeng"/>
+      <file name="eng.css" crc="288619088" ref="phone>eng"/>
+      <file name="biographyeng.css" crc="180642953" ref="phone>biographyeng"/>
+      <file name="contactseng.css" crc="8276840" ref="phone>contactseng"/>
+      <file name="contacts.css" crc="4072294673" ref="phone>contacts"/>
+      <file name="index.css" crc="3831195086" ref="phone>index"/>
+      <file name="nomq_index.css" crc="104805899" ref="phone>index"/>
+      <file name="video.css" crc="4253790757" ref="phone>video"/>
+    </folder>
+    <file name="index.html" crc="3810546921" seo="true" mt="1531594630752" redirect="true"/>
+    <file name="photos.html" crc="280644111" seo="true" mt="1531589840995" redirect="true"/>
+    <file name="video.html" crc="182522893" seo="true" mt="1531583357705" redirect="true"/>
+    <file name="biography.html" crc="4234767426" seo="true" mt="1531595722616" redirect="true"/>
+    <file name="repertoire.html" crc="3869775590" seo="true" mt="1531596031559" redirect="true"/>
+    <file name="contacts.html" crc="4281889537" seo="true" mt="1531589717889" redirect="true"/>
+    <file name="eng.html" crc="411797760" seo="true" mt="1531597601880" redirect="true"/>
+    <file name="contactseng.html" crc="4289299210" seo="true" mt="1531589892150" redirect="true"/>
+    <file name="photoseng.html" crc="3768736042" seo="true" mt="1531589922675" redirect="true"/>
+    <file name="videoeng.html" crc="4206930195" seo="true" mt="1531597449187" redirect="true"/>
+    <file name="repertoireeng.html" crc="413106274" seo="true" mt="1531596007306" redirect="true"/>
+    <file name="biographyeng.html" crc="4053414383" seo="true" mt="1531597548205" redirect="true"/>
+  </folder>
+  <file name="biography.html" crc="4192835854" seo="true" mt="1531597057294" redirect="true"/>
+  <file name="photos.html" crc="341606293" seo="true" mt="1531589695773" redirect="true"/>
+  <file name="video.html" crc="3830835172" seo="true" mt="1531583357695" redirect="true"/>
+  <file name="repertoire.html" crc="3928340282" seo="true" mt="1531596526041" redirect="true"/>
+  <file name="contacts.html" crc="4287168499" seo="true" mt="1531589717885" redirect="true"/>
+  <file name="index.html" crc="4245440743" seo="true" mt="1531592015324" redirect="true"/>
+  <file name="contactseng.html" crc="3909555312" seo="true" mt="1531589892145" redirect="true"/>
+  <file name="repertoireeng.html" crc="3847716391" seo="true" mt="1531596439405" redirect="true"/>
+  <file name="eng.html" crc="4166049940" seo="true" mt="1531597881517" redirect="true"/>
+  <file name="biographyeng.html" crc="29730253" seo="true" mt="1531597735254" redirect="true"/>
+  <file name="photoseng.html" crc="153432887" seo="true" mt="1531589922672" redirect="true"/>
+  <file name="videoeng.html" crc="33111517" seo="true" mt="1531597449184" redirect="true"/>
+</manifest>

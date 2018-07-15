@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sait.com/index.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/contactseng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/contactseng.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/contactseng.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/photos.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/photos.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/photos.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/video.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/video.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/video.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/repertoire.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/repertoire.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/contacts.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/contacts.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/contacts.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/tablet/video-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sait.com/biography.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/biography.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/repertoireeng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/repertoireeng.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/eng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/eng.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/eng.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/biographyeng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/biographyeng.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/photoseng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/photoseng.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://sait.com/tablet/photoseng.html"/>
+  </url>
+  <url>
+    <loc>http://sait.com/videoeng.html</loc>
+    <lastmod>2018-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sait.com/phone/videoeng.html"/>
+  </url>
+</urlset>
